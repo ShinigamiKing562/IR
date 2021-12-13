@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">IR</string>
+    <string name="speed_plus">sp+</string>
+    <string name="speed_minus">sp-</string>
+    <string name="off">off</string>
+    <string name="on">on</string>
+    <string name="red">red</string>
+    <string name="green">grn</string>
+    <string name="blue">blu</string>
+    <string name="white">wht</string>
+    <string name="c1">c1</string>
+    <string name="c2">c2</string>
+    <string name="c3">c3</string>
+    <string name="flash">fls</string>
+    <string name="c4">c4</string>
+    <string name="c5">c5</string>
+    <string name="c6">c6</string>
+    <string name="strobe">str</string>
+    <string name="c7">c7</string>
+    <string name="c8">c8</string>
+    <string name="c9">c9</string>
+    <string name="fade">fad</string>
+    <string name="c10">c10</string>
+    <string name="c11">c11</string>
+    <string name="c12">c12</string>
+    <string name="smooth">smt</string>
+
 </resources>
