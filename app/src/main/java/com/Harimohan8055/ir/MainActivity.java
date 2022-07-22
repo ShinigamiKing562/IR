@@ -1,4 +1,4 @@
-package com.example.ir;
+package com.Harimohan8055.ir;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
