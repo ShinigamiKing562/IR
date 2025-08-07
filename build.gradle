@@ -12,6 +12,7 @@ buildscript {
     }
 }
 
-task clean(type: Delete) {
+// 👇 MUST be outside of `buildscript`
+tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }
